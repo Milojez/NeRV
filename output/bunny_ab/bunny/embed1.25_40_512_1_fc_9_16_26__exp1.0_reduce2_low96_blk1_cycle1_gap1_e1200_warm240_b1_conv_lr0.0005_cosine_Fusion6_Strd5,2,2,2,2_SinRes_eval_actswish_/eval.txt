@@ -1,0 +1,3 @@
+2024_03_30_00_51_59	 Results for checkpoint: checkpoints/1200e_NeRV_S_bunny.pth
+PSNR/ms_ssim on validate set for bit -1 with axis 0: 33.99/0.9735
+
